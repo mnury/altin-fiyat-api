@@ -1,0 +1,226 @@
+{
+  "source": "https://erkuder.com/api/fiyatlar.php",
+  "fetched_at": 1779619196,
+  "fiyatlar": [
+    {
+      "kod": "gram_altin",
+      "isim": "Gram Altın",
+      "kategori": "has",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 6632.84,
+      "satis": 6663.23,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "ceyrek_altin",
+      "isim": "ÇEYREK (AÇIK)",
+      "kategori": "sarrafiye_yeni",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 10600,
+      "satis": 11000,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "yarim_altin",
+      "isim": "YARIM (AÇIK)",
+      "kategori": "sarrafiye_yeni",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 21200,
+      "satis": 22000,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "tam_altin",
+      "isim": "TAM (AÇIK)",
+      "kategori": "sarrafiye_yeni",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 42500,
+      "satis": 43600,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "ata_altin",
+      "isim": "7.20 (AÇIK)",
+      "kategori": "sarrafiye_yeni",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 43900,
+      "satis": 45000,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "gremese_yeni",
+      "isim": "17.50 (AÇIK)",
+      "kategori": "sarrafiye_yeni",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 106100,
+      "satis": 109100,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "ceyrek_eski",
+      "isim": "ÇEYREK (KAPALI)",
+      "kategori": "sarrafiye_eski",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 10800,
+      "satis": 11200,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "yarim_eski",
+      "isim": "YARIM (KAPALI)",
+      "kategori": "sarrafiye_eski",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 21600,
+      "satis": 22400,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "tam_eski",
+      "isim": "TAM (KAPALI)",
+      "kategori": "sarrafiye_eski",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 43300,
+      "satis": 44400,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "ata_eski",
+      "isim": "7.20 (KAPALI)",
+      "kategori": "sarrafiye_eski",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 44500,
+      "satis": 45600,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "gremese_eski",
+      "isim": "17.50 (KAPALI)",
+      "kategori": "sarrafiye_eski",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 108100,
+      "satis": 111200,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "18_ayar",
+      "isim": "22 AYAR İŞÇİLİK",
+      "kategori": "ayar",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 6030,
+      "satis": 7010,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "22_ayar_sarnel",
+      "isim": "22 AYAR ŞARNEL",
+      "kategori": "ayar",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 6030,
+      "satis": 6360,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "22_ayar",
+      "isim": "22 AYAR BİLEZİK",
+      "kategori": "ayar",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 6030,
+      "satis": 6260,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "21_ayar_altin",
+      "isim": "21 AYAR ALTIN",
+      "kategori": "ayar",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 5750,
+      "satis": 6060,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "14_ayar",
+      "isim": "14 AYAR İŞÇİLİK",
+      "kategori": "ayar",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 3700,
+      "satis": 5100,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "22_ayar_1gr",
+      "isim": "22 AYAR 1 GR",
+      "kategori": "ayar",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 6100,
+      "satis": 6300,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "24_ayar_1gr",
+      "isim": "24 AYAR 1 GR",
+      "kategori": "ayar",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 6600,
+      "satis": 6800,
+      "degisim_yuzde": 0.055
+    },
+    {
+      "kod": "dolar",
+      "isim": "USD/TRY",
+      "kategori": "doviz",
+      "tv_goster": 0,
+      "panel_goster": 1,
+      "alis": 45.48,
+      "satis": 45.97,
+      "degisim_yuzde": 0.0219
+    },
+    {
+      "kod": "euro",
+      "isim": "EUR/TRY",
+      "kategori": "doviz",
+      "tv_goster": 0,
+      "panel_goster": 1,
+      "alis": 52.72,
+      "satis": 53.26,
+      "degisim_yuzde": -0.0941
+    },
+    {
+      "kod": "ons_usd",
+      "isim": "ALTIN ONS (USD)",
+      "kategori": "doviz",
+      "tv_goster": 0,
+      "panel_goster": 1,
+      "alis": 4506.7,
+      "satis": 4507.7,
+      "degisim_yuzde": 0
+    },
+    {
+      "kod": "kulce_altin",
+      "isim": "5/10/20/50/100",
+      "kategori": "gram_set",
+      "tv_goster": 1,
+      "panel_goster": 1,
+      "alis": 6610,
+      "satis": 6760,
+      "degisim_yuzde": 0.055
+    }
+  ]
+}

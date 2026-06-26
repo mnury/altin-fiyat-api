@@ -1,0 +1,15 @@
+[Unit]
+Description=Altin ve doviz fiyat API
+After=network.target
+
+[Service]
+User=mehmet
+Group=mehmet
+WorkingDirectory=/home/mehmet/workspace/altin-fiyat-api
+EnvironmentFile=/home/mehmet/workspace/altin-fiyat-api/.env
+ExecStart=/home/mehmet/workspace/altin-fiyat-api/.venv/bin/uvicorn main:app --host 127.0.0.1 --port 8000 --workers 2
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
