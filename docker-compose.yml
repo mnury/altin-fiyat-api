@@ -1,0 +1,12 @@
+services:
+  altin-fiyat-api:
+    build: .
+    container_name: altin-fiyat-api
+    env_file:
+      - .env
+    volumes:
+      - /home/deploy/altin-fiyat-api:/app:cached
+    ports:
+      - "127.0.0.1:8000:8000"
+    restart: unless-stopped
+    command: ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "2"]
